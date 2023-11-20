@@ -61,3 +61,50 @@
 #btn4{
     background-color: red;
 }
+.sample{
+    height: 320px;
+    width:315px;
+    background-color:white;
+    border: solid 1px #dedcdc;
+    border-radius: 5px;
+    padding-left: 5px;
+}   
+#logo1{
+    display: flex;
+    margin-bottom: 5px;
+}
+#timeH{
+    margin-bottom: 25px;
+    margin-top:0px;
+    margin-left: 3px;
+}
+#timelogo{
+    height: 25px;
+    width:25px
+}
+#cmnt{
+    margin-bottom: 25px;
+    margin-top:0px;
+    margin-left: 3px;
+}
+#chatlogo{
+    height: 25px;
+    width:25px
+}
+#logo2{
+    display: flex;
+    margin-bottom: 5px;
+    margin-left: 35px;
+}
+#logos{
+    display: flex;
+}
+#transfer{
+    background-color:white;
+    width: 90px;
+    height: 28px;
+    font-weight: 600;
+    border: solid 1px black;
+    border-radius: 5px;
+    margin-top: 9px;
+}
